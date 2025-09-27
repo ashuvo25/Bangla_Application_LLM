@@ -1,6 +1,6 @@
 #install library
 #pip install unsloth datasets transformers trl peft bitsandbytes accelerate evaluate rouge_score bert-score sacrebleu jiwer termcolor matplotlib
-
+#pip install -U  accelerate peft evaluate nstall evaluate sacrebleu rouge_score jiwer bert-score
 # train_unsloth.py
 # --------------------------------------------------
 # Fine-tuning an Unsloth LLM on Bangla instruction dataset
