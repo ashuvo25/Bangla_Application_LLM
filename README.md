@@ -16,8 +16,8 @@ Welcome to our collection of **Bengali formal letter prompts and responses**!
 This dataset is designed to help train and evaluate language models for generating **formal correspondence in Bengali**.
 
 At its core, this dataset is a collection of **4,196 prompt-response pairs**.  
-- The **prompts** are concise, averaging just **7.4 tokens**  
-- The **responses** are detailed letters, with an average length of **104.1 tokens**
+- The **prompts** are concise, averaging just **8 tokens**  
+- The **responses** are detailed letters, with an average length of **1,340 tokens**
 
 The lack of large, annotated datasets has been a significant barrier to advancing **Bangla Natural Language Processing (NLP)**. This dataset helps bridge that gap.
 
@@ -28,9 +28,9 @@ The lack of large, annotated datasets has been a significant barrier to advancin
 - **Total Samples**: 4,196 prompt-response pairs  
 - **Unique Topics**: 2,008 distinct subjects covering a wide variety of formal letters  
 - **Language**: Bengali  
-- **Average Prompt Length**: 7.4 tokens  
-- **Average Response Length**: 104.1 tokens  
-- **Maximum Sequence Length**: 1244 tokens  
+- **Average Prompt Length**: 8 tokens  
+- **Average Response Length**: 1,340 tokens  
+- **Maximum Sequence Length**: 1,942 tokens  
 
 ---
 
