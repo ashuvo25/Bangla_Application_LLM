@@ -1,7 +1,7 @@
 # Bangla_Application_LLM
 
-## Zero-Shot Performance is Limited: Fine-Tuning Multilingual Large Language Models for Application and Dialogue Generation in Bangla
-
+## BLADE: A Dataset for Bangla Application and Dialogue Generation in
+Large Language Models
 Large Language Models (LLMs) show strong potential, but their zero-shot performance for low-resource languages like Bangla is often limited. Achieving nuanced and accurate generation for specific tasks such as **formal application writing** and **dialogue generation** requires dedicated fine-tuning.  
 
 This project addresses this gap by presenting a **comprehensive dataset** and approach for adapting multilingual LLMs to the linguistic intricacies of the Bengali language.  
